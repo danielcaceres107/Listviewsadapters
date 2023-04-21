@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SeCoCo</string>
+    <string name="app_logo">logo</string>
+    <string-array name="perfiles">
+        <item>Diagnostico</item>
+        <item>Seguimiento</item>
+        <item>Zonas</item>
+    </string-array>
+</resources>
